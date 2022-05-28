@@ -13,8 +13,9 @@ const Card = ({
   team: string
   description: string
   deadline: string
-  picture: object
+  picture: {src: string}
 }) => {
+
   return (
     <div className={styles.card}>
     <div className={styles.text}>
