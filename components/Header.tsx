@@ -8,9 +8,7 @@ const Header = () => {
   return (
     <header className={styles.header}>
         <Link href="/" passHref>
-          <a className="py-6 w-full text-center md:text-left md:w-auto text-gray-600 no-underline flex justify-center items-center">
-            Research Hub
-          </a>
+            <h1>Citizen Sci</h1>
         </Link>
 
         <div className="w-full md:w-auto mb-6 md:mb-0 text-center md:text-right">
