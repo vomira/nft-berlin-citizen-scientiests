@@ -1,4 +1,4 @@
-# Empowering Citizen Scientiests around the world and giving them ownership of the data they provide 🧪
+# Empowering Citizen Scientists around the world and giving them ownership of the data they provide 🧪
 
 # Mintbase Boilerplate and Starter for Next JS 12+, Tailwind CSS 3 and TypeScript
 
